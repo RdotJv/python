@@ -13,7 +13,7 @@ sponsored_items_data = {}
 
 browser = webdriver.Chrome()
 browser.get("https://www.amazon.com")
-input()
+input() #wait for user to solve captcha
 search_bar = browser.find_element(By.XPATH,'//*[@id="twotabsearchtextbox"]')
 search_bar.send_keys('dog toy')
 search_bar.send_keys(Keys.RETURN)
