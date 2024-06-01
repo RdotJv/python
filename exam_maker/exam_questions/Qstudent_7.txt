@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 7
+
+Question 1. What is the capital of South Dakota?
+  a. Harrisburg
+  b. Carson City
+  c. Pierre
+  d. Montgomery
+
+Question 2. What is the capital of Idaho?
+  a. Boise
+  b. Pierre
+  c. Sacramento
+  d. Saint Paul
+
+Question 3. What is the capital of Nebraska?
+  a. Columbus
+  b. Olympia
+  c. Lincoln
+  d. Cheyenne
+
+Question 4. What is the capital of Oregon?
+  a. Nashville
+  b. Carson City
+  c. Jackson
+  d. Salem
+
+Question 5. What is the capital of Mississippi?
+  a. Salt Lake City
+  b. Springfield
+  c. Jackson
+  d. Richmond
+
+Question 6. What is the capital of Alaska?
+  a. Nashville
+  b. Santa Fe
+  c. Juneau
+  d. Indianapolis
+
+Question 7. What is the capital of Maine?
+  a. Nashville
+  b. Santa Fe
+  c. Bismarck
+  d. Augusta
+
+Question 8. What is the capital of North Carolina?
+  a. Boston
+  b. Springfield
+  c. Raleigh
+  d. Richmond
+
+Question 9. What is the capital of Wyoming?
+  a. Jefferson City
+  b. Salem
+  c. Little Rock
+  d. Cheyenne
+
+Question 10. What is the capital of South Carolina?
+  a. Austin
+  b. Columbia
+  c. Pierre
+  d. Boise
+
+Question 11. What is the capital of Iowa?
+  a. Columbus
+  b. Des Moines
+  c. Jefferson City
+  d. Charleston
+
+Question 12. What is the capital of California?
+  a. Hartford
+  b. Juneau
+  c. Sacramento
+  d. Frankfort
+
+Question 13. What is the capital of New York?
+  a. Dover
+  b. Boise
+  c. Oklahoma City
+  d. Albany
+
+Question 14. What is the capital of Utah?
+  a. Lincoln
+  b. Salt Lake City
+  c. Hartford
+  d. Raleigh
+
+Question 15. What is the capital of West Virginia?
+  a. Austin
+  b. Boise
+  c. Charleston
+  d. Indianapolis
+
+Question 16. What is the capital of Georgia?
+  a. Atlanta
+  b. Montpelier
+  c. Salem
+  d. Trenton
+
+Question 17. What is the capital of Kansas?
+  a. Honolulu
+  b. Topeka
+  c. Richmond
+  d. Madison
+
+Question 18. What is the capital of Washington?
+  a. Salt Lake City
+  b. Saint Paul
+  c. Olympia
+  d. Sacramento
+
+Question 19. What is the capital of Rhode Island?
+  a. Providence
+  b. Springfield
+  c. Jackson
+  d. Denver
+
+Question 20. What is the capital of North Dakota?
+  a. Concord
+  b. Charleston
+  c. Baton Rouge
+  d. Bismarck

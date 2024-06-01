@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 2
+
+Question 1. What is the capital of Oregon?
+  a. Saint Paul
+  b. Salem
+  c. Providence
+  d. Columbia
+
+Question 2. What is the capital of Texas?
+  a. Helena
+  b. Austin
+  c. Bismarck
+  d. Trenton
+
+Question 3. What is the capital of Delaware?
+  a. Olympia
+  b. Lansing
+  c. Sacramento
+  d. Dover
+
+Question 4. What is the capital of Alabama?
+  a. Montgomery
+  b. Little Rock
+  c. Juneau
+  d. Carson City
+
+Question 5. What is the capital of Maryland?
+  a. Olympia
+  b. Augusta
+  c. Honolulu
+  d. Annapolis
+
+Question 6. What is the capital of New Hampshire?
+  a. Jefferson City
+  b. Frankfort
+  c. Concord
+  d. Cheyenne
+
+Question 7. What is the capital of Washington?
+  a. Topeka
+  b. Olympia
+  c. Phoenix
+  d. Austin
+
+Question 8. What is the capital of Nebraska?
+  a. Tallahassee
+  b. Lincoln
+  c. Hartford
+  d. Concord
+
+Question 9. What is the capital of Oklahoma?
+  a. Albany
+  b. Austin
+  c. Oklahoma City
+  d. Lansing
+
+Question 10. What is the capital of North Carolina?
+  a. Tallahassee
+  b. Albany
+  c. Raleigh
+  d. Jackson
+
+Question 11. What is the capital of Wisconsin?
+  a. Pierre
+  b. Little Rock
+  c. Madison
+  d. Augusta
+
+Question 12. What is the capital of Colorado?
+  a. Boise
+  b. Richmond
+  c. Denver
+  d. Indianapolis
+
+Question 13. What is the capital of Vermont?
+  a. Lincoln
+  b. Montpelier
+  c. Des Moines
+  d. Bismarck
+
+Question 14. What is the capital of Virginia?
+  a. Phoenix
+  b. Richmond
+  c. Atlanta
+  d. Baton Rouge
+
+Question 15. What is the capital of Indiana?
+  a. Jackson
+  b. Concord
+  c. Indianapolis
+  d. Columbia
+
+Question 16. What is the capital of South Carolina?
+  a. Albany
+  b. Madison
+  c. Columbia
+  d. Raleigh
+
+Question 17. What is the capital of New York?
+  a. Raleigh
+  b. Albany
+  c. Madison
+  d. Sacramento
+
+Question 18. What is the capital of Connecticut?
+  a. Hartford
+  b. Nashville
+  c. Helena
+  d. Augusta
+
+Question 19. What is the capital of New Mexico?
+  a. Juneau
+  b. Atlanta
+  c. Santa Fe
+  d. Lansing
+
+Question 20. What is the capital of Nevada?
+  a. Carson City
+  b. Trenton
+  c. Charleston
+  d. Austin

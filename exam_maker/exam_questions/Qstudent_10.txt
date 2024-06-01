@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 10
+
+Question 1. What is the capital of Wisconsin?
+  a. Lincoln
+  b. Madison
+  c. Denver
+  d. Columbia
+
+Question 2. What is the capital of West Virginia?
+  a. Denver
+  b. Charleston
+  c. Augusta
+  d. Bismarck
+
+Question 3. What is the capital of Missouri?
+  a. Raleigh
+  b. Jefferson City
+  c. Boston
+  d. Bismarck
+
+Question 4. What is the capital of Georgia?
+  a. Charleston
+  b. Atlanta
+  c. Santa Fe
+  d. Hartford
+
+Question 5. What is the capital of Wyoming?
+  a. Phoenix
+  b. Des Moines
+  c. Concord
+  d. Cheyenne
+
+Question 6. What is the capital of Hawaii?
+  a. Harrisburg
+  b. Honolulu
+  c. Little Rock
+  d. Topeka
+
+Question 7. What is the capital of North Carolina?
+  a. Frankfort
+  b. Austin
+  c. Columbia
+  d. Raleigh
+
+Question 8. What is the capital of Alaska?
+  a. Oklahoma City
+  b. Juneau
+  c. Bismarck
+  d. Hartford
+
+Question 9. What is the capital of Pennsylvania?
+  a. Harrisburg
+  b. Sacramento
+  c. Juneau
+  d. Salem
+
+Question 10. What is the capital of Nebraska?
+  a. Bismarck
+  b. Cheyenne
+  c. Lincoln
+  d. Harrisburg
+
+Question 11. What is the capital of Virginia?
+  a. Salem
+  b. Nashville
+  c. Annapolis
+  d. Richmond
+
+Question 12. What is the capital of South Dakota?
+  a. Albany
+  b. Cheyenne
+  c. Indianapolis
+  d. Pierre
+
+Question 13. What is the capital of New Mexico?
+  a. Santa Fe
+  b. Dover
+  c. Topeka
+  d. Hartford
+
+Question 14. What is the capital of Florida?
+  a. Nashville
+  b. Dover
+  c. Tallahassee
+  d. Salt Lake City
+
+Question 15. What is the capital of Connecticut?
+  a. Boise
+  b. Hartford
+  c. Columbia
+  d. Atlanta
+
+Question 16. What is the capital of New Jersey?
+  a. Trenton
+  b. Juneau
+  c. Oklahoma City
+  d. Lansing
+
+Question 17. What is the capital of Colorado?
+  a. Denver
+  b. Indianapolis
+  c. Atlanta
+  d. Trenton
+
+Question 18. What is the capital of California?
+  a. Santa Fe
+  b. Albany
+  c. Boise
+  d. Sacramento
+
+Question 19. What is the capital of Maryland?
+  a. Richmond
+  b. Albany
+  c. Annapolis
+  d. Bismarck
+
+Question 20. What is the capital of South Carolina?
+  a. Frankfort
+  b. Providence
+  c. Bismarck
+  d. Columbia

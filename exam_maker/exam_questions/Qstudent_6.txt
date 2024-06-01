@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 6
+
+Question 1. What is the capital of Montana?
+  a. Jackson
+  b. Lansing
+  c. Denver
+  d. Helena
+
+Question 2. What is the capital of North Dakota?
+  a. Sacramento
+  b. Charleston
+  c. Raleigh
+  d. Bismarck
+
+Question 3. What is the capital of Georgia?
+  a. Jefferson City
+  b. Hartford
+  c. Charleston
+  d. Atlanta
+
+Question 4. What is the capital of Iowa?
+  a. Annapolis
+  b. Des Moines
+  c. Indianapolis
+  d. Little Rock
+
+Question 5. What is the capital of North Carolina?
+  a. Raleigh
+  b. Santa Fe
+  c. Olympia
+  d. Trenton
+
+Question 6. What is the capital of South Dakota?
+  a. Baton Rouge
+  b. Boston
+  c. Trenton
+  d. Pierre
+
+Question 7. What is the capital of Utah?
+  a. Salt Lake City
+  b. Salem
+  c. Harrisburg
+  d. Tallahassee
+
+Question 8. What is the capital of Maryland?
+  a. Baton Rouge
+  b. Annapolis
+  c. Denver
+  d. Salt Lake City
+
+Question 9. What is the capital of Wisconsin?
+  a. Madison
+  b. Montpelier
+  c. Jefferson City
+  d. Austin
+
+Question 10. What is the capital of Kansas?
+  a. Boston
+  b. Lansing
+  c. Topeka
+  d. Bismarck
+
+Question 11. What is the capital of Hawaii?
+  a. Honolulu
+  b. Richmond
+  c. Trenton
+  d. Providence
+
+Question 12. What is the capital of Minnesota?
+  a. Saint Paul
+  b. Carson City
+  c. Austin
+  d. Providence
+
+Question 13. What is the capital of Idaho?
+  a. Boise
+  b. Nashville
+  c. Lansing
+  d. Little Rock
+
+Question 14. What is the capital of Washington?
+  a. Olympia
+  b. Tallahassee
+  c. Oklahoma City
+  d. Phoenix
+
+Question 15. What is the capital of California?
+  a. Tallahassee
+  b. Sacramento
+  c. Montpelier
+  d. Raleigh
+
+Question 16. What is the capital of New Hampshire?
+  a. Montpelier
+  b. Concord
+  c. Madison
+  d. Springfield
+
+Question 17. What is the capital of Colorado?
+  a. Denver
+  b. Atlanta
+  c. Topeka
+  d. Lansing
+
+Question 18. What is the capital of Pennsylvania?
+  a. Oklahoma City
+  b. Salt Lake City
+  c. Lansing
+  d. Harrisburg
+
+Question 19. What is the capital of Oregon?
+  a. Salem
+  b. Baton Rouge
+  c. Sacramento
+  d. Little Rock
+
+Question 20. What is the capital of Nebraska?
+  a. Lansing
+  b. Lincoln
+  c. Concord
+  d. Atlanta

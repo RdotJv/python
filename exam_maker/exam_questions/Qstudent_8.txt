@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 8
+
+Question 1. What is the capital of Connecticut?
+  a. Honolulu
+  b. Concord
+  c. Hartford
+  d. Harrisburg
+
+Question 2. What is the capital of Washington?
+  a. Olympia
+  b. Baton Rouge
+  c. Austin
+  d. Columbus
+
+Question 3. What is the capital of Minnesota?
+  a. Cheyenne
+  b. Madison
+  c. Saint Paul
+  d. Helena
+
+Question 4. What is the capital of Louisiana?
+  a. Honolulu
+  b. Denver
+  c. Salem
+  d. Baton Rouge
+
+Question 5. What is the capital of Wyoming?
+  a. Cheyenne
+  b. Nashville
+  c. Boise
+  d. Austin
+
+Question 6. What is the capital of Michigan?
+  a. Lansing
+  b. Phoenix
+  c. Charleston
+  d. Springfield
+
+Question 7. What is the capital of Arkansas?
+  a. Olympia
+  b. Little Rock
+  c. Annapolis
+  d. Jackson
+
+Question 8. What is the capital of Utah?
+  a. Boise
+  b. Salt Lake City
+  c. Columbia
+  d. Sacramento
+
+Question 9. What is the capital of Oklahoma?
+  a. Oklahoma City
+  b. Tallahassee
+  c. Harrisburg
+  d. Honolulu
+
+Question 10. What is the capital of Iowa?
+  a. Des Moines
+  b. Santa Fe
+  c. Phoenix
+  d. Columbus
+
+Question 11. What is the capital of Kansas?
+  a. Topeka
+  b. Atlanta
+  c. Hartford
+  d. Salem
+
+Question 12. What is the capital of Kentucky?
+  a. Carson City
+  b. Frankfort
+  c. Montgomery
+  d. Hartford
+
+Question 13. What is the capital of Wisconsin?
+  a. Santa Fe
+  b. Montgomery
+  c. Helena
+  d. Madison
+
+Question 14. What is the capital of Massachusetts?
+  a. Oklahoma City
+  b. Jackson
+  c. Boston
+  d. Jefferson City
+
+Question 15. What is the capital of New Hampshire?
+  a. Boise
+  b. Charleston
+  c. Topeka
+  d. Concord
+
+Question 16. What is the capital of Indiana?
+  a. Augusta
+  b. Columbus
+  c. Denver
+  d. Indianapolis
+
+Question 17. What is the capital of Vermont?
+  a. Providence
+  b. Santa Fe
+  c. Montpelier
+  d. Raleigh
+
+Question 18. What is the capital of Delaware?
+  a. Dover
+  b. Jackson
+  c. Frankfort
+  d. Atlanta
+
+Question 19. What is the capital of New Mexico?
+  a. Santa Fe
+  b. Charleston
+  c. Juneau
+  d. Frankfort
+
+Question 20. What is the capital of West Virginia?
+  a. Carson City
+  b. Montpelier
+  c. Charleston
+  d. Tallahassee

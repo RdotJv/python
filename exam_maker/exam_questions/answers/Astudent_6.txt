@@ -1,0 +1,25 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 6
+1 Helena
+2 Bismarck
+3 Atlanta
+4 Des Moines
+5 Raleigh
+6 Pierre
+7 Salt Lake City
+8 Annapolis
+9 Madison
+10 Topeka
+11 Honolulu
+12 Saint Paul
+13 Boise
+14 Olympia
+15 Sacramento
+16 Concord
+17 Denver
+18 Harrisburg
+19 Salem
+20 Lincoln

@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 1
+
+Question 1. What is the capital of Mississippi?
+  a. Montgomery
+  b. Jackson
+  c. Springfield
+  d. Providence
+
+Question 2. What is the capital of Michigan?
+  a. Hartford
+  b. Des Moines
+  c. Madison
+  d. Lansing
+
+Question 3. What is the capital of North Dakota?
+  a. Bismarck
+  b. Albany
+  c. Tallahassee
+  d. Olympia
+
+Question 4. What is the capital of Tennessee?
+  a. Little Rock
+  b. Nashville
+  c. Des Moines
+  d. Denver
+
+Question 5. What is the capital of Nebraska?
+  a. Phoenix
+  b. Hartford
+  c. Montpelier
+  d. Lincoln
+
+Question 6. What is the capital of New Jersey?
+  a. Trenton
+  b. Dover
+  c. Baton Rouge
+  d. Charleston
+
+Question 7. What is the capital of Florida?
+  a. Salem
+  b. Oklahoma City
+  c. Salt Lake City
+  d. Tallahassee
+
+Question 8. What is the capital of South Dakota?
+  a. Santa Fe
+  b. Sacramento
+  c. Albany
+  d. Pierre
+
+Question 9. What is the capital of Maryland?
+  a. Denver
+  b. Annapolis
+  c. Sacramento
+  d. Bismarck
+
+Question 10. What is the capital of Vermont?
+  a. Austin
+  b. Little Rock
+  c. Springfield
+  d. Montpelier
+
+Question 11. What is the capital of New York?
+  a. Dover
+  b. Albany
+  c. Boston
+  d. Jefferson City
+
+Question 12. What is the capital of Illinois?
+  a. Salt Lake City
+  b. Springfield
+  c. Raleigh
+  d. Harrisburg
+
+Question 13. What is the capital of Wyoming?
+  a. Frankfort
+  b. Oklahoma City
+  c. Salt Lake City
+  d. Cheyenne
+
+Question 14. What is the capital of Arizona?
+  a. Bismarck
+  b. Olympia
+  c. Phoenix
+  d. Columbia
+
+Question 15. What is the capital of Delaware?
+  a. Columbia
+  b. Dover
+  c. Carson City
+  d. Nashville
+
+Question 16. What is the capital of Massachusetts?
+  a. Bismarck
+  b. Indianapolis
+  c. Boston
+  d. Providence
+
+Question 17. What is the capital of Kansas?
+  a. Carson City
+  b. Topeka
+  c. Madison
+  d. Oklahoma City
+
+Question 18. What is the capital of West Virginia?
+  a. Santa Fe
+  b. Annapolis
+  c. Charleston
+  d. Boston
+
+Question 19. What is the capital of Maine?
+  a. Denver
+  b. Montgomery
+  c. Augusta
+  d. Indianapolis
+
+Question 20. What is the capital of California?
+  a. Montpelier
+  b. Atlanta
+  c. Nashville
+  d. Sacramento

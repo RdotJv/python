@@ -1,0 +1,25 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 9
+1 Madison
+2 Pierre
+3 Santa Fe
+4 Albany
+5 Salt Lake City
+6 Olympia
+7 Jackson
+8 Des Moines
+9 Little Rock
+10 Atlanta
+11 Bismarck
+12 Boise
+13 Charleston
+14 Concord
+15 Austin
+16 Sacramento
+17 Nashville
+18 Raleigh
+19 Indianapolis
+20 Lansing

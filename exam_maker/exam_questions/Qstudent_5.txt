@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 5
+
+Question 1. What is the capital of Kentucky?
+  a. Frankfort
+  b. Carson City
+  c. Des Moines
+  d. Boston
+
+Question 2. What is the capital of New Jersey?
+  a. Trenton
+  b. Atlanta
+  c. Richmond
+  d. Denver
+
+Question 3. What is the capital of Mississippi?
+  a. Juneau
+  b. Hartford
+  c. Jackson
+  d. Springfield
+
+Question 4. What is the capital of Massachusetts?
+  a. Sacramento
+  b. Boston
+  c. Honolulu
+  d. Springfield
+
+Question 5. What is the capital of Illinois?
+  a. Springfield
+  b. Oklahoma City
+  c. Boise
+  d. Richmond
+
+Question 6. What is the capital of South Carolina?
+  a. Des Moines
+  b. Boston
+  c. Columbia
+  d. Carson City
+
+Question 7. What is the capital of Hawaii?
+  a. Providence
+  b. Honolulu
+  c. Oklahoma City
+  d. Hartford
+
+Question 8. What is the capital of Tennessee?
+  a. Concord
+  b. Columbia
+  c. Santa Fe
+  d. Nashville
+
+Question 9. What is the capital of New Hampshire?
+  a. Raleigh
+  b. Charleston
+  c. Concord
+  d. Madison
+
+Question 10. What is the capital of Pennsylvania?
+  a. Harrisburg
+  b. Olympia
+  c. Lincoln
+  d. Boise
+
+Question 11. What is the capital of Virginia?
+  a. Pierre
+  b. Richmond
+  c. Trenton
+  d. Charleston
+
+Question 12. What is the capital of Alaska?
+  a. Salt Lake City
+  b. Little Rock
+  c. Springfield
+  d. Juneau
+
+Question 13. What is the capital of Nevada?
+  a. Santa Fe
+  b. Carson City
+  c. Trenton
+  d. Columbus
+
+Question 14. What is the capital of Michigan?
+  a. Providence
+  b. Lansing
+  c. Salt Lake City
+  d. Hartford
+
+Question 15. What is the capital of Indiana?
+  a. Charleston
+  b. Jefferson City
+  c. Indianapolis
+  d. Frankfort
+
+Question 16. What is the capital of West Virginia?
+  a. Charleston
+  b. Honolulu
+  c. Lincoln
+  d. Salt Lake City
+
+Question 17. What is the capital of Maine?
+  a. Augusta
+  b. Lincoln
+  c. Topeka
+  d. Trenton
+
+Question 18. What is the capital of Montana?
+  a. Saint Paul
+  b. Atlanta
+  c. Augusta
+  d. Helena
+
+Question 19. What is the capital of Connecticut?
+  a. Albany
+  b. Cheyenne
+  c. Pierre
+  d. Hartford
+
+Question 20. What is the capital of Wyoming?
+  a. Des Moines
+  b. Olympia
+  c. Cheyenne
+  d. Albany

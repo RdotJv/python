@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 3
+
+Question 1. What is the capital of South Carolina?
+  a. Baton Rouge
+  b. Dover
+  c. Boise
+  d. Columbia
+
+Question 2. What is the capital of Massachusetts?
+  a. Denver
+  b. Boston
+  c. Richmond
+  d. Honolulu
+
+Question 3. What is the capital of New Hampshire?
+  a. Madison
+  b. Boston
+  c. Carson City
+  d. Concord
+
+Question 4. What is the capital of Delaware?
+  a. Boston
+  b. Dover
+  c. Charleston
+  d. Raleigh
+
+Question 5. What is the capital of Kansas?
+  a. Lansing
+  b. Richmond
+  c. Topeka
+  d. Atlanta
+
+Question 6. What is the capital of Idaho?
+  a. Oklahoma City
+  b. Carson City
+  c. Boise
+  d. Salem
+
+Question 7. What is the capital of Utah?
+  a. Honolulu
+  b. Salt Lake City
+  c. Annapolis
+  d. Indianapolis
+
+Question 8. What is the capital of Wisconsin?
+  a. Harrisburg
+  b. Raleigh
+  c. Cheyenne
+  d. Madison
+
+Question 9. What is the capital of Connecticut?
+  a. Des Moines
+  b. Oklahoma City
+  c. Nashville
+  d. Hartford
+
+Question 10. What is the capital of Ohio?
+  a. Columbus
+  b. Nashville
+  c. Annapolis
+  d. Springfield
+
+Question 11. What is the capital of Arkansas?
+  a. Trenton
+  b. Carson City
+  c. Topeka
+  d. Little Rock
+
+Question 12. What is the capital of Pennsylvania?
+  a. Annapolis
+  b. Nashville
+  c. Harrisburg
+  d. Trenton
+
+Question 13. What is the capital of California?
+  a. Atlanta
+  b. Sacramento
+  c. Austin
+  d. Springfield
+
+Question 14. What is the capital of Indiana?
+  a. Indianapolis
+  b. Montgomery
+  c. Bismarck
+  d. Raleigh
+
+Question 15. What is the capital of Maryland?
+  a. Phoenix
+  b. Cheyenne
+  c. Providence
+  d. Annapolis
+
+Question 16. What is the capital of New Mexico?
+  a. Des Moines
+  b. Santa Fe
+  c. Columbia
+  d. Montpelier
+
+Question 17. What is the capital of Alaska?
+  a. Boston
+  b. Juneau
+  c. Des Moines
+  d. Nashville
+
+Question 18. What is the capital of Tennessee?
+  a. Nashville
+  b. Austin
+  c. Montgomery
+  d. Atlanta
+
+Question 19. What is the capital of North Carolina?
+  a. Indianapolis
+  b. Topeka
+  c. Raleigh
+  d. Saint Paul
+
+Question 20. What is the capital of Oregon?
+  a. Montgomery
+  b. Sacramento
+  c. Montpelier
+  d. Salem

@@ -1,0 +1,25 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 8
+1 Hartford
+2 Olympia
+3 Saint Paul
+4 Baton Rouge
+5 Cheyenne
+6 Lansing
+7 Little Rock
+8 Salt Lake City
+9 Oklahoma City
+10 Des Moines
+11 Topeka
+12 Frankfort
+13 Madison
+14 Boston
+15 Concord
+16 Indianapolis
+17 Montpelier
+18 Dover
+19 Santa Fe
+20 Charleston

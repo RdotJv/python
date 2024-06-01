@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 9
+
+Question 1. What is the capital of Wisconsin?
+  a. Austin
+  b. Olympia
+  c. Madison
+  d. Juneau
+
+Question 2. What is the capital of South Dakota?
+  a. Bismarck
+  b. Helena
+  c. Pierre
+  d. Topeka
+
+Question 3. What is the capital of New Mexico?
+  a. Sacramento
+  b. Des Moines
+  c. Santa Fe
+  d. Concord
+
+Question 4. What is the capital of New York?
+  a. Frankfort
+  b. Phoenix
+  c. Concord
+  d. Albany
+
+Question 5. What is the capital of Utah?
+  a. Juneau
+  b. Lansing
+  c. Madison
+  d. Salt Lake City
+
+Question 6. What is the capital of Washington?
+  a. Concord
+  b. Baton Rouge
+  c. Raleigh
+  d. Olympia
+
+Question 7. What is the capital of Mississippi?
+  a. Trenton
+  b. Springfield
+  c. Boise
+  d. Jackson
+
+Question 8. What is the capital of Iowa?
+  a. Concord
+  b. Little Rock
+  c. Des Moines
+  d. Sacramento
+
+Question 9. What is the capital of Arkansas?
+  a. Annapolis
+  b. Little Rock
+  c. Olympia
+  d. Columbus
+
+Question 10. What is the capital of Georgia?
+  a. Honolulu
+  b. Montpelier
+  c. Atlanta
+  d. Albany
+
+Question 11. What is the capital of North Dakota?
+  a. Harrisburg
+  b. Nashville
+  c. Bismarck
+  d. Olympia
+
+Question 12. What is the capital of Idaho?
+  a. Boise
+  b. Albany
+  c. Oklahoma City
+  d. Pierre
+
+Question 13. What is the capital of West Virginia?
+  a. Lincoln
+  b. Helena
+  c. Cheyenne
+  d. Charleston
+
+Question 14. What is the capital of New Hampshire?
+  a. Concord
+  b. Indianapolis
+  c. Annapolis
+  d. Boston
+
+Question 15. What is the capital of Texas?
+  a. Springfield
+  b. Tallahassee
+  c. Austin
+  d. Salem
+
+Question 16. What is the capital of California?
+  a. Austin
+  b. Raleigh
+  c. Sacramento
+  d. Montgomery
+
+Question 17. What is the capital of Tennessee?
+  a. Dover
+  b. Charleston
+  c. Honolulu
+  d. Nashville
+
+Question 18. What is the capital of North Carolina?
+  a. Raleigh
+  b. Columbia
+  c. Lansing
+  d. Annapolis
+
+Question 19. What is the capital of Indiana?
+  a. Jefferson City
+  b. Indianapolis
+  c. Des Moines
+  d. Raleigh
+
+Question 20. What is the capital of Michigan?
+  a. Montpelier
+  b. Jackson
+  c. Frankfort
+  d. Lansing

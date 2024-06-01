@@ -1,0 +1,125 @@
+Name: 
+Date:
+Class:
+
+                    State Capital quiz form 4
+
+Question 1. What is the capital of Texas?
+  a. Baton Rouge
+  b. Tallahassee
+  c. Cheyenne
+  d. Austin
+
+Question 2. What is the capital of Minnesota?
+  a. Pierre
+  b. Concord
+  c. Montgomery
+  d. Saint Paul
+
+Question 3. What is the capital of Wyoming?
+  a. Honolulu
+  b. Nashville
+  c. Olympia
+  d. Cheyenne
+
+Question 4. What is the capital of Ohio?
+  a. Columbus
+  b. Concord
+  c. Little Rock
+  d. Phoenix
+
+Question 5. What is the capital of Florida?
+  a. Tallahassee
+  b. Jefferson City
+  c. Jackson
+  d. Frankfort
+
+Question 6. What is the capital of Utah?
+  a. Salt Lake City
+  b. Denver
+  c. Dover
+  d. Olympia
+
+Question 7. What is the capital of Delaware?
+  a. Springfield
+  b. Topeka
+  c. Dover
+  d. Lincoln
+
+Question 8. What is the capital of North Carolina?
+  a. Raleigh
+  b. Frankfort
+  c. Harrisburg
+  d. Madison
+
+Question 9. What is the capital of Colorado?
+  a. Montgomery
+  b. Denver
+  c. Boise
+  d. Des Moines
+
+Question 10. What is the capital of New York?
+  a. Oklahoma City
+  b. Harrisburg
+  c. Cheyenne
+  d. Albany
+
+Question 11. What is the capital of Louisiana?
+  a. Annapolis
+  b. Baton Rouge
+  c. Montpelier
+  d. Indianapolis
+
+Question 12. What is the capital of Nevada?
+  a. Carson City
+  b. Saint Paul
+  c. Nashville
+  d. Madison
+
+Question 13. What is the capital of Kansas?
+  a. Carson City
+  b. Salem
+  c. Honolulu
+  d. Topeka
+
+Question 14. What is the capital of Mississippi?
+  a. Des Moines
+  b. Salem
+  c. Jackson
+  d. Albany
+
+Question 15. What is the capital of Maine?
+  a. Lincoln
+  b. Bismarck
+  c. Little Rock
+  d. Augusta
+
+Question 16. What is the capital of Rhode Island?
+  a. Providence
+  b. Lansing
+  c. Denver
+  d. Jefferson City
+
+Question 17. What is the capital of Montana?
+  a. Helena
+  b. Boston
+  c. Raleigh
+  d. Bismarck
+
+Question 18. What is the capital of Illinois?
+  a. Montpelier
+  b. Boston
+  c. Oklahoma City
+  d. Springfield
+
+Question 19. What is the capital of Wisconsin?
+  a. Madison
+  b. Des Moines
+  c. Santa Fe
+  d. Denver
+
+Question 20. What is the capital of South Dakota?
+  a. Columbia
+  b. Raleigh
+  c. Indianapolis
+  d. Pierre
